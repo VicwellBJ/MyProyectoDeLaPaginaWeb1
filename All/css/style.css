@@ -1,0 +1,23 @@
+body{
+    background-color: #106148;
+    font-family: Monserrat;
+    color: gold;
+}
+
+@font-face {
+    font-family: Cinzel;
+    src: url("../../html/TrabajosPersonales/VSC/CursoCSS/fuentes/Cinzel-VariableFont_wght.ttf");
+}
+@font-face {
+    font-family: Monserrat;
+    src: url("../../html/TrabajosPersonales/VSC/CursoCSS/fuentes/Montserrat-Regular.ttf");
+}
+@font-face {
+    font-family: Kaushan;
+    src: url("../../html/TrabajosPersonales/VSC/CursoCSS/fuentes/KaushanScript-Regular.ttf");
+}
+@font-face {
+    font-family: Monofett;
+    src: url("../../html/TrabajosPersonales/VSC/CursoCSS/fuentes/Monofett-Regular.ttf");
+}
+
